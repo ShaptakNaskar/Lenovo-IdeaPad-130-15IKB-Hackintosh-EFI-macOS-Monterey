@@ -13,6 +13,8 @@
 
 </div>
 
+> ⚠️ **Use this repo only as a reference!** Please follow the official [Dortania OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/) for a proper Hackintosh setup. This repo shares only the EFI and hardware info for this particular model.
+
 ## 📋 Hardware Specifications
 
 | Component | Specification |
@@ -42,24 +44,25 @@
 - ✅ **Battery** - Proper battery percentage
 - ✅ **Webcam** - Working with all apps
 
-## 📝 Notes
-
-- 📝 **HDMI** - Not tested
-- 📝 **SD Card Reader** - Not tested
-
 ## ❌ Known Issues
 
 - ❌ **Ethernet is slow** - Included [HoRNDIS](https://github.com/theQuert/HoRNDIS) for enabling USB tethering with android devices
 - ❌ **Integrated WiFi and Bluetooth will not work**
 - ❌ **Touchpad is wonky** - If you bring your finger close to the edge of the touchpad, cursor keeps moving until you swipe on the middle
 
+## 📝 Notes
+
+- 📝 **HDMI** - Not tested
+- 📝 **SD Card Reader** - Not tested
+- 📝 **This EFI has been tested up to Ventura 13.7.8 as it still supports Kaby Lake, but since Ventura is more optimized for Apple Silicon, Monterey is the most reliable choice.**
+
 ## ⚠️ Important Disclaimer
 
-**Legal Notice:** This project is for educational purposes only. macOS is proprietary software owned by Apple Inc. This EFI configuration does not contain any copyrighted Apple software. Users are responsible for obtaining legitimate copies of macOS and ensuring compliance with Apple's Software License Agreement.
+**Legal Notice:** 🚨 I am **NOT** responsible for thermonuclear war, Steve Jobs haunting your dreams, or Tim Cook sending hitmen to your home! 👻🍎 This is for **entertainment and educational reference only**. No warranty, no AppleCare, no Genius Bar for you! Use at your own risk, and **never blame me** for summoning ghostly software bugs or fruit-branded nightmares! 😱
 
 **Hardware Warranty:** Hackintoshing may void your warranty faster than you can say "Genius Bar appointment." Proceed at your own risk, and maybe don't mention this to your local Apple Store employee. 🤫
 
-**Support:** This is a community effort - no official support from Apple, Lenovo, or your local tech support relative who "knows computers."
+**Support:** This is a community effort - Please do not expect official support from Apple, Lenovo, or your local tech support relative who "knows computers." 🤷‍♂️
 
 ## 🤝 Contributing
 
