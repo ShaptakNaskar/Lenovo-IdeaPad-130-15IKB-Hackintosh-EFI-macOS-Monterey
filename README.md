@@ -22,11 +22,11 @@
 | **Model** | Lenovo IdeaPad 130-15IKB (Type 81H7) |
 | **CPU** | Intel Core i5-7200U (Kaby Lake) |
 | **GPU** | Intel HD Graphics 620 |
-| **RAM** | 4GiB single channel (upgraded to 8GiB dual channel) |
+| **RAM** | 4GB single channel (upgraded to 8GB dual channel) |
 | **Storage** | 1TB WD Blue HDD (upgraded to ADATA SU650 120GB SSD) |
 | **Display** | 15.6" FHD (1920x1080) TN Panel |
 | **Audio** | Realtek ALC236 |
-| **Ethernet** | Realtek RTL810xE PCI Express Fast Ethernet controller (rev 07) |
+| **Ethernet** | Realtek RTL810xE PCI Express Fast Ethernet controller (10/100) |
 | **WiFi/BT** | Wi-Fi: Realtek RTL8821CE 802.11ac PCIe Wireless Combo Module |
 | **USB Ports** | 2x USB 3.0 Ports |
 | **Other** | SD Card Reader, HDMI |
